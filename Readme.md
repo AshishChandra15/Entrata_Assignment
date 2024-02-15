@@ -42,10 +42,10 @@ This project showcases how to set up Selenium with Python and provides examples 
 >phone_number  = //input[@name='Phone'] \
 >unit_count = //select[@name='Unit_Count__c'] \
 >job_title = //input[@name='Title'] \
->watch_demo_submit_button = //button[text()='Watch Demo'] \
+>watch_demo_submit_button = //button[text()='Watch Demo'] 
 
 >> [validation_data] \
->home_page_title = Property Management Software | Entrata \
+>home_page_title = Property Management Software | Entrata 
 
 >> [data] \
 >first_name_data = First Name \
@@ -54,7 +54,7 @@ This project showcases how to set up Selenium with Python and provides examples 
 >company_name_data = Company Name \
 >phone_number_data = 9876543210 \
 >unit_count_data = 11-100 \
->job_title_data = Demo Test \
+>job_title_data = Demo Test
 
 >> ******* Execute Suite *******\
 > pytest --html=report.html
