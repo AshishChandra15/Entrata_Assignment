@@ -1,12 +1,35 @@
 
-
-
-This is Test Framework created by @Demo for Entrata \
+This is Test Framework created for @Demo Entrata \
 This Automation Test Project Is Only For Demo purpose.
 >> before running script please be sure all requirements are met and test environment is created. \
 >> Re-verify conftest.py file inside All-Test-Cases-Package. \
 >> Re-verify 
->> # Watch Demo Page
+
+# Pre-requisites
+>> Selenium with Python Project \
+>This project demonstrates how to use Selenium with Python for automated web testing.
+
+> ## Overview
+>Selenium is a powerful tool for automating web browsers.It provides a simple API for interacting with web pages, 
+allowing you to simulate user actions such as clicking buttons, filling out forms, and navigating between pages.
+This project showcases how to set up Selenium with Python and provides examples of common tasks such as web scraping and automated testing.
+
+> ## Requirements
+> Python 3.x \
+> Selenium WebDriver \
+> Web browser (Chrome, Firefox, etc.)
+
+> ## Installation
+>1. Clone this repository: \
+    git clone https://github.com/AshishChandra15/Entrata_Assignment.git
+
+>2. Install Python dependencies: \
+>pip install -r requirements.txt
+
+>## Usage
+> pytest --html=report.html 
+
+>> ## Watch Demo Page
 >> Update Locators:\
 >> [Common_Data]\
 >> url = https://www.entrata.com/ \
