@@ -1,7 +1,7 @@
 
 This is Test Framework created for @Demo Entrata \
 This Automation Test Project Is Only For Demo purpose.
->> before running script please be sure all requirements are met and test environment is created. \
+>> before running script please be sure all requirements are met and test environment is created.
 
 # Pre-requisites
 >> Selenium with Python Project \
