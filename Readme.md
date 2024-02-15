@@ -26,7 +26,7 @@ This project showcases how to set up Selenium with Python and provides examples 
 >2. Install Python dependencies: \
 >pip install -r requirements.txt
 
->## Usage
+>## Usage to run the script
 > pytest --html=report.html 
 
 >> ## Watch Demo Page
