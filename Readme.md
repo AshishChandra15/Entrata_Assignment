@@ -2,8 +2,6 @@
 This is Test Framework created for @Demo Entrata \
 This Automation Test Project Is Only For Demo purpose.
 >> before running script please be sure all requirements are met and test environment is created. \
->> Re-verify conftest.py file inside All-Test-Cases-Package. \
->> Re-verify 
 
 # Pre-requisites
 >> Selenium with Python Project \
